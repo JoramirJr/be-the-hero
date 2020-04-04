@@ -1,6 +1,3 @@
-<section>
-    
-</section>
-<section align="center">
-    <img alt="DevRadar" src=".github/bethehero.png" width="200px" />
-</section>
+<p align="center">
+  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+</p>
