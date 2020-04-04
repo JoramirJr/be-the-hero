@@ -2,5 +2,5 @@
     
 </section>
 <section align="center">
-    <img alt="DevRadar" src=".github/bethehero.svg" width="200px" />
+    <img alt="DevRadar" src=".github/bethehero.png" width="200px" />
 </section>
