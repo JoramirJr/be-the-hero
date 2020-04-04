@@ -2,5 +2,5 @@
     
 </section>
 <section align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+    <img alt="Be The Hero Screenshot" src=".github/bethehero.png" width="200px" />
 </section>
