@@ -5,7 +5,7 @@
 
 <p>Estudamos e implementamos Node.js no ambiente Back-End, React.js no Front-End, e React Native no Mobile. Além disso, aprendemos a utilizar o GitHub em sincronia com o VS Code, e,  por fins de comodidade e simplificação, aprendemos e utilizamos o banco de dados SQLite.</p>
 
-<p>Muito obrigado á RocketSeat por esse projeto fantástico (pra variar), foi um prazer participar dessa fantástica semana.</p>
+<p>Muito obrigado ao pessoal da RocketSeat por esse projeto fantástico (pra variar), foi um prazer participar dessa fantástica semana.</p>
 <p align="center">
   <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
 </p>
